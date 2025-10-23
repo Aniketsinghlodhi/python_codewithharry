@@ -9,3 +9,6 @@ print("Is Student:", is_student)
 print("Data Types:")
 print("Type of age:", type(age))
 print("Type of height:", type(height))              
+
+
+# python is dynamically typed language
