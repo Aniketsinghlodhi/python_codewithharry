@@ -4,7 +4,7 @@ name = "John Doe" # string
 is_student = True # boolean 
 print("Age:", age)
 print("Height:", height)
-print("Name:", name)
+
 print("Is Student:", is_student)    
 print("Data Types:")
 print("Type of age:", type(age))
