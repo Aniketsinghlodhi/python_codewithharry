@@ -1,0 +1,8 @@
+age = 20 # interger 
+height = 5.9 # float
+name = "John Doe" # string
+is_student = True # boolean 
+print("Age:", age)
+print("Height:", height)
+print("Name:", name)
+print("Is Student:", is_student)    
