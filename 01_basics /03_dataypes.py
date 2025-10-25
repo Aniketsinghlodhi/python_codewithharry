@@ -23,3 +23,4 @@ is_student = True # boolean this can be either true or false
 print(is_student)   
 print(type(is_student))
 
+
