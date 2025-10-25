@@ -15,3 +15,4 @@ print(type(c))
 c = str(c)
 print(c)
 print(type(c))
+# Typecasting is covnerting one data type to another data type
